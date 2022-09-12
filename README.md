@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **finding the perfect company to work for.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/macobuk](https://github.com/macobuk)
+- 👨‍💻 All of my projects are available in the [repositories](https://github.com/macobuk?tab=repositories) tab.
 
 - 💬 Ask me about **anything.**
 
