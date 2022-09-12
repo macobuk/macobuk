@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/macobuk_dev" target="blank"><img src="https://img.shields.io/twitter/follow/macobuk_dev?logo=twitter&style=for-the-badge" alt="macobuk_dev" /></a> </p>
 
-- 👀 Click here for my portfolio [Click Here](https://macobuk.github.io/portfolio/)
+- 👀 Click here for my portfolio [Check it out!](https://macobuk.github.io/portfolio/)
 
 - 🔭 I’m currently working on **a shopping flutter app.**
 
