@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **macobuk.dev@gmail.com**
 
-- ⚡ Fun fact **I took part of Hells Kitchen on Polish national tv.**
+- ⚡ Fun fact **I took part of Hell's Kitchen on Polish national tv.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
