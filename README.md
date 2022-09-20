@@ -9,7 +9,7 @@
 
 - 👀 Click here for my portfolio [Check it out!](https://macobuk.github.io/portfolio/)
 
-- 🔭 I’m currently working on **a shopping flutter app.**
+- 🔭 I’m currently working on **my passion project.**
 
 - 🌱 I’m currently learning **python.**
 
